@@ -2,7 +2,7 @@
 
 A structural credit risk suite in Python: Altman Z-Score, a Merton distance-to-default model, the full Basel III capital stack (EL, UL, EC, CVA), Kaplan-Meier survival analysis, and an SR 11-7 champion-challenger validation framework. Built on real SEC EDGAR, equity, and FRED data for 60 entities across 2015 to 2023, including the banks that failed in 2023.
 
-*Boopesh Mohanraj · MS Engineering Management, Northeastern University*
+*Boopesh Mohanraj*
 
 ---
 
@@ -138,4 +138,4 @@ Stated plainly, because credit model validation is exactly where overconfidence 
 
 ---
 
-*Part of a six-project quantitative finance portfolio. Data from SEC EDGAR, yfinance, and the FRED API. Research and educational project, not investment advice.*
+* Data from SEC EDGAR, yfinance, and the FRED API *
